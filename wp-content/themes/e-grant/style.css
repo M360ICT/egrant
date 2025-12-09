@@ -1504,3 +1504,145 @@ p{
   color: white;
   text-align: center;
 } */
+
+.specialist-inner {
+    display: flex;
+}
+
+.specialist-inner .col {
+    align-self: center;
+    width: 50%;
+}
+
+.specialist-inner-wrapper h2 {
+    font-size: 38px;
+}
+
+.specialist-inner-text-style h2 {
+    font-size: 110px;
+    color: #C30000;
+    text-align: center;
+}
+
+.specialist-inner-text-style h3 {
+    font-size: 145px;
+    text-align: right;
+    color: #fff;
+}
+
+.specialist-inner-wrapper {
+    background: #C30000;
+    color: #fff;
+    border-radius: 0 375px 375px 0;
+    padding: 80px;
+    padding-right: 370px;
+    padding-left: 200px;
+}
+
+/* .specialist-inner-wrapper:before {
+    position: absolute;
+    left: -100%;
+    top: 0;
+    width: 100%;
+    height: 100%;
+    content: '';
+    background: #C30000;
+    z-index: -1;
+} */
+
+.text-style-3 {
+    font-size: 100px;
+    line-height: 1;
+}
+
+.text-style-3 span {
+    font-size: 21px;
+    display: block;
+    line-height: 120px;
+}
+
+.specialist-img img {
+    width: 530px;
+    margin-left: -220px;
+    /* margin-top: -235px; */
+}
+
+.specialist-inner-section .btn-entry{
+  display: inline-block;
+  width: 140px;
+  font-size: 22px;
+  line-height: 54px;
+  text-align: center;
+  color: #C30000;
+  background: #fff;
+  border-radius: 100vh;
+}
+
+.specialist-inner-text-style h3 {
+    position: absolute;
+    right: 0;
+    width: 350px;
+    top: 0;
+    line-height: 1.2;
+}
+
+.specialist-inner-text-style {
+    position: relative;
+}
+
+.text-style-3 {
+    /* position: absolute;
+    left: 270px;
+    bottom: 0; */
+    color: #C30000;
+    font-family: "Barlow", sans-serif;
+    margin-top: -265px;
+    z-index: 5;
+    position: relative;
+    margin-left: 210px;
+}
+
+.specialist-img {
+    position: relative;
+    z-index: 2;
+}
+
+.specialist-inner-text-section {
+    position: relative;
+}
+
+/* .specialist-inner {
+    padding: 80px 0;
+} */
+
+.text-style-2 span {
+    font-size: 104px;
+}
+
+.text-style-2 {
+    font-size: 110px;
+    font-family: "Barlow", sans-serif;
+    font-weight: 600;
+    color: #fff;
+    text-align: right;
+}
+
+.specialist-inner-section {
+    padding: 80px 0;
+}
+
+.specialist-inner-wrapper h2 span {
+    font-size: 77px;
+}
+
+.interview-img-right-style .bg-style-inner-1 {
+    margin-right: auto;
+}
+
+.interview-img-right-style .bg-style-inner-1 p span {
+    font-size: 70px;
+}
+
+.interview-img-right-style .bg-style-inner-1 {
+    padding-top: 120px;
+}
